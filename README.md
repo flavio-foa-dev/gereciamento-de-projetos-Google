@@ -20,3 +20,4 @@ Por que você decidiu se inscrever no Certificado de Gerenciamento de Projetos d
 Quais são suas expectativas em relação a este curso? Você quer muito aprender sobre gerenciamento de projetos? O que você espera colocar em prática em sua vida quando este curso terminar?
 
 Quais são seus outros interesses? Ao postar, inclua algo que ajudará outras pessoas a desenvolver um vínculo com você.
+Quais são seus outros interesses? Ao postar, inclua algo que ajudará outras pessoas a desenvolver um vínculo com você.
