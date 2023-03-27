@@ -792,6 +792,3 @@ Olá, de novo. Vamos começar com duas perguntas rápidas. O que você sabe sobr
 
 2. Apredendo sobre a cultura de uma organizacao
 3. 2. Apredendo sobre a cultura de uma organizacao
-3. 2. Apredendo sobre a cultura de uma organizacao
-3. 2. Apredendo sobre a cultura de uma organizacao
-4.
