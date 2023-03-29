@@ -791,4 +791,90 @@ Oi, eu sou Lan. Sou diretor de gerenciamento de programas no Google. Um diretor 
 Olá, de novo. Vamos começar com duas perguntas rápidas. O que você sabe sobre cultura, e como você define cultura? Quando ouço o termo cultura, as primeiras ideias que vêm à mente são coisas como idiomas, comida, roupas e tipos de vestido. É importante notar que há outras partes da cultura, talvez menos óbvias, mas tão impactantes quanto, como crenças, tradições e costumes. Quando aprendemos sobre a cultura de alguém, temos uma visão muito mais profunda e uma imagem mais completa em quem eles são e como transitam pelo mundo. O mesmo pode ser verdadeiro para organizações. A cultura de uma organização fornece contexto e atua como um guia para o que seu pessoal valoriza, como eles operam diariamente, como eles se relacionam uns com os outros, e o desempenho que se pode esperar deles. Há muitas maneiras de definir cultura organizacional. Algumas definições enfatizam o trabalho em equipe e a inovação, enquanto outros se concentram na atenção aos detalhes e realização. Monografias inteiras, workshops e conferências são dedicadas à definição e análise da cultura organizacional. Nós só temos alguns minutos aqui, então vou fazer o meu melhor para resumir. Cultura organizacional é em parte os valores que os funcionários compartilham, bem como os valores da organização, missão, história, e assim por diante. Em outras palavras, a cultura organizacional pode ser pensada como a personalidade da empresa. Entender a cultura de uma organização vai ajudá-lo a levar sua equipe de forma mais eficaz a alcançar o objetivo do projeto. Também impacta a forma como você planeja seu projeto. Você precisa estar familiarizado com a cultura de uma organização, para que possa minimizar o conflito e concluir o projeto com tanto apoio e harmonia quanto possível. A missão e os valores de uma organização podem fornecer pistas sobre sua cultura. Se você puder demonstrar como o projeto apoia a missão da empresa ou como o projeto se alinha com os valores da empresa, vai ter mais apoio de executivos e partes interessadas para obter as aprovações e recursos que você precisa. Preste atenção ao que os líderes na organização valorizam ao conduzir negócios. A equipe de gestão se importa com velocidade mais do que com perfeição? Como as pessoas dentro da organização tomam decisões? Elas examinam minuciosamente cada opção para cada decisão? Isso ajudará a informar quais valores são os mais importantes para elas e como você pode abordar sua tomada de decisão. Se você já está preso em seu projeto e precisa de orientação sobre como tomar certa decisão, ou não tem certeza de como se comunicar com alguém da organização, rever a missão e os valores podem ajudar a direcioná-lo para a forma certa de lidar com essa situação. Aqui está um exemplo: se a empresa valoriza a estabilidade e o feedback do usuário, ela pode incentivar a expansão do cronograma do projeto para permitir testes e, então, tomar decisões baseadas nos resultados dos testes. Se a empresa valoriza a inovação e o crescimento da receita, ela pode encorajar um cronograma mais curto para ter o produto mais rápido, e correr alguns riscos para experimentar novas ideias. Como gerente de projeto, quando entender os diferentes tipos de valores, e o que priorizar, você terá uma ideia de como pode se preparar melhor para conversas dentro da organização. Idealmente, você vai querer ter uma boa noção da cultura de uma empresa antes de iniciar a primeira fase do seu projeto. Se você estiver sendo entrevistado para uma posição de gerenciamento de projetos, perguntar sobre a cultura é uma ótima maneira de obter mais informações sobre a empresa. Isso também mostra ao entrevistador que você tem conhecimento do impacto que a cultura pode ter em um projeto. Para ajudá-lo a ter uma noção melhor da cultura de uma organização, Considere as seguintes perguntas: Como as pessoas preferem se comunicar? É principalmente por meio de reuniões agendadas, por e-mail, pelo telefone? Como são tomadas decisões, votação majoritária ou aprovações de cima para baixo? Que tipos de rituais acontecem quando alguém novo vem ao escritório? Ele é levado para almoçar, dar uma volta pelo prédio ou apresentado à equipe? Como os projetos são normalmente executados? Eles preferem um estilo clássico, um estilo matriz ou algum outro estilo de gerenciamento de projetos? E, finalmente, que tipo de práticas, comportamentos e valores são refletidos pela pessoas na organização? Horas extras e trabalho de fim de semana são coisas esperadas? Existem eventos sociais aprovados pela empresa? Descobrir o que a empresa valoriza vai lhe dizer muito sobre a cultura. E como lidar com a comunicação, gerenciar expectativas e identificar potenciais conflitos conforme você trabalha em seu projeto. Quando começar a trabalhar em um projeto, estas são algumas formas de aproveitar a cultura da empresa que irão ajudá-lo a conseguir o máximo de sua equipe e garantir que seu projeto seja apoiado. Como acabei de discutir, não deixe de fazer perguntas. Conforme observar a cultura, tente perguntar aos seus pares o que eles acham que está indo bem e o que eles mudariam. Seus pares podem ter a mesma opinião que você, se não você pode aprender algo novo que não descobriu no processo de entrevista. De qualquer forma, você estará em um lugar melhor para avaliar o risco, ajustar o seu projeto atual ou estar mais preparado para projetos no futuro. Também é uma boa ideia fazer observações. É importante entender como as coisas funcionam e o que as pessoas gostam e respeitam sobre a cultura da empresa. Ao trabalhar em diferentes localidades, também é importante estar ciente de costumes estabelecidos, como curvar-se, apertar as mãos ou cobrir a cabeça. Isso vai ajudá-lo a compreender e formar relações respeitosas. Por último, é importante entender seu impacto. Esteja ciente de seu papel como agente de mudança. Um agente de mudança é alguém que ajuda a organização a se transformar, focando em melhorar a eficácia organizacional e o desenvolvimento. Você e seu projeto provavelmente afetarão a organização de alguma forma. Às vezes, apenas a presença de um gerente de projeto cria mudanças no ambiente do escritório ou na dinâmica dos funcionários. Se o seu projeto exigir grandes mudanças às quais a organização deve se adaptar, fique atento a quão extremas essas mudanças poderiam ser e busque feedback e aprovação prévia. A empresa pode não concordar com certos tipos de mudanças que não pareçam estar alinhadas com sua missão, visão ou cultura. É importante reconhecer os limites ou limites de mudanças para implementar e entender o que seria o mais benéfico para o projeto e a empresa em geral. Como você pode ver, a cultura organizacional tem uma forte influência sobre como as decisões são tomadas com relação ao projeto. A forma como uma organização é estruturada geralmente influencia o tipo de cultura que existe. Por isso, é importante considerar tanto a estrutura e a cultura ao planejar e realizar seu projeto. A seguir, vamos falar sobre a forma como o seu projeto pode criar mudanças no local de trabalho e como envolver as partes interessadas e os funcionários na implementação de seu projeto.
 
 2. Apredendo sobre a cultura de uma organizacao
+
 3. 2. Apredendo sobre a cultura de uma organizacao
+
+É importante aprender sobre a cultura da organização onde você trabalha ou quer trabalhar. Entender a cultura da empresa pode ajudá-lo a orientar sua equipe através de um projeto. Considere esta citação de Peter Drucker, um especialista em gerenciamento: "A cultura come estratégia no café da manhã". Drucker está insinuando que a cultura de uma empresa sempre influencia seu sucesso, independentemente de quão eficaz seja o modelo de negócio da empresa. A cultura organizacional é fundamental para a saúde de uma empresa, as pessoas que trabalham lá e os clientes que ela atende.
+
+A importância da cultura organizacional
+Identidade: A cultura de uma organização define sua identidade. Sua identidade descreve essencialmente a forma como a empresa conduz os negócios, tanto internamente quanto externamente. Os valores e a cultura organizacional de uma empresa andam lado a lado; seus valores fazem parte de sua identidade. Você quase pode pensar na cultura de uma organização como sua personalidade. Por isso, é importante aprender as declarações de valor e a missão (ou empresa-alvo) da sua empresa. As declarações de missão e valor ajudarão você a entender por que a empresa existe e lhe darão uma visão do que a empresa acredita e como ela se comportará.
+
+Pessoas: Uma cultura organizacional forte e positiva ajuda a reter os melhores funcionários de uma empresa. Pessoas que se sentem valorizadas, engajadas e desafiadas são mais propensas a dar o seu melhor e querem lutar pelo sucesso. A cultura de uma organização pode ajudar a manter funcionários talentosos em uma empresa, e pode atrair grandes pessoas também! Por outro lado, uma cultura tóxica pode ter o efeito oposto. É importante encontrar uma organização com uma cultura que se encaixe na sua personalidade. Uma maneira de saber mais sobre a cultura de uma organização é conversar com as pessoas que trabalham lá. Você também pode observar os trajes, as expressões e o comportamento geral dos funcionários atuais.
+
+Processos: A cultura organizacional pode ter impactos diretos nos processos de uma empresa e, em última instância, em sua produtividade. A cultura da organização é incutida em toda a empresa – desde seus funcionários até como seus funcionários fazem o trabalho deles. Por exemplo, uma empresa que valoriza o feedback e o envolvimento dos funcionários pode ter isso refletido em seus processos incluindo muitas oportunidades para os funcionários comentarem. Ao permitir que os funcionários sintam que suas vozes são ouvidas, esta empresa está aderindo à sua cultura.
+
+Entendendo a cultura de uma organização
+Como gerente de projetos, é importante entender a cultura da sua empresa, principalmente porque ela pode afetar os projetos em que você trabalha. Alguns aspectos da cultura de uma organização que estão diretamente relacionados a como os projetos são gerenciados são comunicação, tomada de decisão, rituais, estilos de gerenciamento anteriores e valores. Para saber mais sobre a cultura de uma empresa e como ela se aplica a você como gerente de projeto, você pode:
+
+Fazer perguntas
+Você pode aprender sobre a cultura de uma organização fazendo perguntas sobre gerenciamento e pares. Pode ser útil fazer essas perguntas na fase de entrevista para entender melhor a cultura da empresa antes de aceitar um cargo. Você pode querer fazer perguntas sobre:
+
+Atmosfera
+Qual é o código de vestimenta da empresa?
+
+Como as pessoas normalmente compartilham crédito nesta empresa?
+
+A tomada de risco é encorajada? E o que acontece quando as pessoas falham?
+
+Como os gestores apoiam e motivam sua equipe?
+
+Como as pessoas nessa função interagem com clientes e usuários?
+
+Quando e como os membros da equipe dão feedback uns aos outros?
+
+Quais são algumas tradições no local de trabalho?
+
+Quais são algumas das maneiras pelas quais a empresa celebra o sucesso?
+
+Políticas
+Quais são as políticas em torno de dias de doença e férias?
+
+A empresa permite flexibilidade dos funcionários (por exemplo, trabalhar de casa, horário de trabalho flexível)?
+
+Que políticas existem que apoiam os funcionários que compartilham sua identidade no local de trabalho?
+
+Processos
+Qual é o processo de integração da empresa?
+
+Como os funcionários medem o impacto de seu trabalho?
+
+Valores
+Quais são as declarações de missão e valor da empresa?
+
+Como a pessoa nessa função pode contribuir para a missão da organização?
+
+Como a organização apoia o desenvolvimento profissional e o crescimento da carreira?
+
+Ouça as histórias das pessoas
+Ouvir o que os atuais funcionários têm a dizer e como eles retratam a empresa lhe dará uma ótima ideia.
+
+Quais foram as experiências dos funcionários com projetos semelhantes no passado?
+
+O que eles podem dizer sobre as principais partes interessadas e clientes?
+
+Observe os rituais da empresa
+Rituais podem ser poderosos impulsionadores da cultura. Eles envolvem as pessoas e ajudam a incutir um senso de propósito e experiência compartilhados.
+
+Como são celebrados aniversários e feriados?
+
+Os funcionários geralmente almoçam ao mesmo tempo e no mesmo lugar?
+
+Observe as interações dos funcionários:observar como os funcionários interagem pode ajudá-lo a adaptar seu estilo de interação à norma da empresa.
+
+As interações dos funcionários são mais formais ou informais?
+
+As ideias são solicitadas aos funcionários em diferentes funções?
+
+Entenda seu impacto
+Como gerente de projeto, você se torna um agente de mudança. Lembre-se: um agente de mudança é uma pessoa de dentro de uma organização que ajuda a organização a se transformar, focando em melhorar a eficácia organizacional e o desenvolvimento. Quando você começar em uma nova função, sente-se com a gerência para entender melhor o que é esperado de você e como você pode aproveitar ao máximo a oportunidade.
+
+Afie suas habilidades de comunicação
+As habilidades de comunicação interpessoal são uma parte importante da gerenciamento de projetos. A forma como uma empresa se comunica está diretamente ligada à sua cultura organizacional. Você provavelmente terá interações com vários departamentos e níveis de gestão durante a execução de projetos. Para se comunicar efetivamente, você precisará entender como transitar pelos diferentes canais da sua empresa. Faça perguntas sobre práticas de comunicação quando você iniciar em uma nova função, como: É costume assinar e-mails em nome da equipe e não de você individualmente? As apresentações devem incluir membros da equipe ou ser apresentadas exclusivamente pelo gerente de projeto? Isso pode ajudá-lo a ter certeza de que você está aderindo às expectativas.
+
+Abordar projetos de forma diferente de como projetos semelhantes foram gerenciados no passado pode ser recebido com alguma resistência. Embora alguns projetos possam exigir que você quebre o status quo, ao mostrar uma apreciação da cultura de sua organização, você pode ajudar os membros da sua equipe a aceitar quaisquer melhorias que você esteja implementando.
+
+Principal conclusão
+A cultura organizacional é importante porque tem um impacto direto em você como gerente de projeto, e aprender a lidar com a cultura organizacional lhe dá uma grande vantagem ao executar projetos. Ser capaz de lidar com interações departamentais, comunicar-se efetivamente e planejar seu projeto de acordo com a cultura da organização ajudará a prepará-lo para o sucesso em sua carreira de gerenciamento de projetos.
+
+### 3, gerenciamento de projeto na vida e na organizacao
+lá, sou Amar. Sou gerente de programa de engenharia sênior no Google Shopping. No dia a dia, estou à frente de programas que abrangem vários produtos no Google. Do jeito que eu encaro o gerenciamento de programas, é mais tipo, a vida é gerenciamento de programas. Tudo na vida é programa; ter filhos, construir uma casa, comprar carro. Tudo o que fazemos tem um começo e um fim. O que vemos em tudo e em qualquer coisa que fazemos, há uma tremenda quantidade de atrito no sistema. Na tomada de decisões, no orçamento, tudo na vida. Isso se aplica igualmente ao gerenciamento de programas de software, ou mesmo se você estiver no setor de construção. Se você vir desde o início do projeto de construção, até realmente receber as propostas e todas as coisas. Há uma tremenda quantidade de caos do ponto de vista disso, sabe, as pessoas certas estão conectadas? As pessoas certas para se tomar decisões estão na reunião? Existe o número certo de aprovações que precisamos em tempo hábil? Há muitas dessas coisas que eu testemunhei durante minha carreira e nas empresas anteriores, inclusive no Google, que não eram eficientes e estavam realmente adicionando um risco enorme ou expondo o risco no final do ciclo de desenvolvimento. Isso é o que eu via como um mundo caótico. Eu realmente sentia que, na verdade, eu realmente posso ajudar a resolver um pouco desse caos. No dia a dia, trabalho para trazer ordem ao caos. Há um mundo caótico lá fora no desenvolvimento de programas de software, então nós, como gerentes de programas, nos certificamos de reunir tudo isso. Quando comecei minha jornada de gerenciamento de programas, uma das principais coisas, o que eu estava procurando, (e graças aos mentores, agradeço muito pelos mentores) uma das coisas que me ensinaram, sabe o quê foi? “Amar, quando você vier trabalhar todos os dias, pergunte quais são os três principais desafios que você quer resolver hoje.” Até hoje eu sigo... sempre sigo... pense quais são as três principais coisas que eu quero resolver hoje. Aquelas grandes, impactantes, assim como eu também olho e também ajudo minha equipe a entender semanalmente o que representa o sucesso. Todas as segundas-feiras de manhã, tenho uma reunião com o pessoal de estratégia. Discussões muito estratégicas sobre como será o sucesso nesta semana. Como definiríamos que a semana foi bem-sucedida? É assim que começo minha semana. Isso faz milagres na entrega do programa e em geral na vida. Eu amo esses aspectos.
